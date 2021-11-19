@@ -7,3 +7,4 @@ oneM2M https://youtu.be/5VRxGfCXAX8 </br>
 Multimodal Interaction https://youtu.be/oGpDfDuoZDQ </br>
 메타버스 및 디지털 트윈 https://youtu.be/zf_KgBz3YAE </br>
 디지털 트윈 https://youtu.be/Dh5iamsgsQQ </br>
+강화학습 https://youtu.be/IfYn_88LGsA </br>
